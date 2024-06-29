@@ -27,3 +27,10 @@ Conclusion
 Our analysis shows that the factors that contribute to happiness vary widely across different countries. For example, while social support and freedom to make life choices are important factors for overall happiness, perceptions of corruption have a greater impact on happiness in some countries than others.
 
 Overall, our analysis provides valuable insights into the complex and multifaceted nature of happiness and highlights the importance of considering a range of factors when studying happiness.
+
+## World Happiness Report Analysis Dashboard
+
+![Screenshot 2024-06-29 125054](https://github.com/ShineBhawna/World_Happiness_Report_Analysis/assets/93312897/2c643e44-162b-454b-95e5-f7c216f0dfb7)
+
+
+![Screenshot 2024-06-29 125135](https://github.com/ShineBhawna/World_Happiness_Report_Analysis/assets/93312897/dd4b54f2-1fef-4cb9-a2a5-60c4a2494265)
